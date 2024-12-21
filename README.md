@@ -22,7 +22,9 @@ Linux6.12.6-zen
 │   ├── fixdep-largefile.patch
 │   ├── linux-v6.12.6-zen1.patch
 │   └── x13s-camera.patch
-└── template```
-
-![image2](/assets/images/image2.png)
+└── template
+```
 ![image2](https://github.com/user-attachments/assets/ed17184b-294b-40c8-8be1-1d9fdce435a5)
+
+![image1](https://github.com/user-attachments/assets/1abdbe6b-55f3-432a-b022-9f354cf865d5)
+
