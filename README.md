@@ -26,8 +26,11 @@ Linux6.12.6-zen
 └── template
 ```
 
+You need to create the symbolik link :
+
+`ln -s linux6.12.6-zen/ linux6.12.6-zen-headers`
 
 ![image1](https://github.com/user-attachments/assets/1abdbe6b-55f3-432a-b022-9f354cf865d5)
 
-
+#VOID MANUAL
 https://github.com/void-linux/void-packages/blob/master/Manual.md
