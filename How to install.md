@@ -1,7 +1,7 @@
 # How to Install
 
 > [!NOTE]
-> This document is for the cloning repository method , if you only want to use the template is because you are a more experinced user so you dont need this instructions.
+> This document is for the cloning repository method , if you only want to use the template is because you are a more experienced user so you don't need this instructions.
 
 
 
@@ -15,6 +15,12 @@ you can choose any folder where you want to keep the repository. I choose  ~/.lo
 ```
 mkdir -p ~/.local/share/pkgs
 ```
+go there
+
+```
+cd ~/.local/share/pkgs
+```
+
 
 Then , clone the void-packages git repository
 
@@ -24,7 +30,7 @@ $ cd void-packages
 $ ./xbps-src binary-bootstrap
 ```
 
-You can read more abou this in the Official github of Void Linux https://github.com/void-linux/void-packages
+You can read more about this in the Official github of Void Linux https://github.com/void-linux/void-packages
 
 
 2. Go to your Downloads folder and clone this linux zen repository.
@@ -66,7 +72,7 @@ During this process the zen patch will ask you a few questions about configurati
 # xbps-install --repository hostdir/binpkgs linux6.12.6-zen linux6.12.6-zen-headers
 ```
 
-Alternatively, packages can be installed with the xi utility, from the xtools package. xi takes the repository of the current working directory into account.
+Alternatively, packages can be installed with the `xi` utility, from the `xtools` package. xi takes the repository of the current working directory into account.
 ```
 $ xi linux6.12.6-zen linux6.12.6-zen-headers
 ```
